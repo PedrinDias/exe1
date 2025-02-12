@@ -1,0 +1,18 @@
+Media
+
+crie um codigo para pedir pro usuario inserir 3 numeros diferentes em decimal: Float
+crie um codigo para validar se a media dos 3 numeros sao maior ou menor que 7,para fazer a media pegue os 3 numeros some e divida pela quantidade de numeros existentes caso esteje acima ou igual a 7 aprovado, caso esteje abaixo reprovado.
+Valide o resultado, e conclua a operacao.
+
+Ex: 1+2+3 / 3 = 3
+
+
+Temperatura
+ Crie um coidigo pra receber a quantidade de graus EX: 35°c
+ Crie um codgio pra fazer a conversao de GRAUS para FAHRENHEIT EX: F =(35 * 9/5) + 32.
+
+
+Numero par verificaçao
+
+Crie 1 Variavel para pedi pro usuario inserir em uma Lista varios numeros
+Crie 1 Variavel para percorrer a lista e achar os numeors pares colcado pelo usuario
