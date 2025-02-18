@@ -20,3 +20,14 @@ if soma >= 7:
   print("Voce foi aprovado")
 else:
   print("Voce foi reprovado")
+
+
+'''
+Extras:
+  Soma(decimal) = Nota1 + Nota2 + Nota3
+  Avaliaçao(inteiro) = 3
+  Media(decimal) = Soma/Avaliação
+  AP(Constante) = 7
+  Se a media for maior ou igual ao AP, entao o aluno sera aprovado
+  Senao sera Reprovado
+'''
